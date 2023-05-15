@@ -1,0 +1,64 @@
+
+.instagrampost{
+
+width: 100%;
+margin: 0;
+	padding-top: 0;
+
+}
+.header{
+
+    display: flex;
+    background-color: aliceblue;
+
+
+}
+
+.image{
+
+    width: 100%;
+	margin: 0;
+	padding-top: 10px;
+
+}
+
+ .link{
+
+margin-right: 100%;
+	margin: 0;
+	padding-top: 10px;
+
+
+}
+
+.image .name{
+
+    display: block;
+}
+.name{
+margin-left: auto;
+font-size: 12px;
+
+}
+
+.imagecenter{
+    
+margin: 10px;
+padding: 0px
+}
+
+.imagecenter img{
+
+    width: 100%;
+}
+
+.feelback{
+
+    display: flex;
+}
+
+.save {
+
+    position: absolute;
+    right: 0;
+}
